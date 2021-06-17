@@ -1,5 +1,4 @@
-# GMPE340
-Kalman Filter and Sensor Integration
+# GMPE340 - Kalman Filter and Sensor Integration
 
 ## Information
 The course will be presented in a hybrid version containing both classical lectures on Campus and digital lectures on Zoom.
