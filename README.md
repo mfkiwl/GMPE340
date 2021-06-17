@@ -1,7 +1,7 @@
 # GMPE340 - Kalman Filter and Sensor Integration
 
 ## Information
-The course will be presented in a *hybrid* version containing both classical lectures on Campus and digital lectures on Zoom.
+The course will be presented in a hybrid version containing both classical lectures on Campus and digital lectures on Zoom.
 
 ## Course contents
 Introduction to stochastic processes and applied Kalman filtering with focus on positioning, navigation and time applications (PVT).
