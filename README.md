@@ -16,7 +16,8 @@ Lectures, Colloquium, Student presentations, Assignments.
 Calculus and linear algebra. Differential equations. Parameter estimation.
 
 ## Recommended
-Good programming skills (Python/C++/MATLAB)\\
+Good programming skills (Python/C++/MATLAB)
+
 Recommended Python distribution: https://www.anaconda.com/products/individual
 
 ## Syllabus
