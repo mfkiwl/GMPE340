@@ -7,7 +7,7 @@ The course will be presented in a hybrid version containing both classical lectu
 Introduction to stochastic processes and applied Kalman filtering with focus on positioning, navigation and time applications (PVT).
 
 ## Learning outcome
-Students will understand the basic filter derivation based on minimum vari- ance. This is followed by various approaches to basic theory such as in- formation filtering, suboptimal analysis, Bayesian estimation, ratio of least squares (LSQ) and other estimates, smoothing and methods for dealing with non-linearities.
+Students will understand the basic filter derivation based on minimum variance. This is followed by various approaches to basic theory such as information filtering, suboptimal analysis, Bayesian estimation, ratio of least squares (LSQ) and other estimates, smoothing and methods for dealing with non-linearities.
 
 ## Learning activities
 Lectures, Colloquium, Student presentations, Assignments.
